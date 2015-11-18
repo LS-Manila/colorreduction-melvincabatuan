@@ -54,7 +54,7 @@ task clean(type: Delete) {
 }
 ```
 
-App's 'build.grable'
+App's 'build.gradle'
 ```gradle
 apply plugin: 'com.android.model.application'
 
